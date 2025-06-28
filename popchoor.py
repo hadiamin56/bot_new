@@ -15,7 +15,6 @@ BOT_TOKEN = '8089308588:AAE08ICpqt7C2YDUaM7z0nkntqOUDc046No'
 TARGET_CHAT_IDS = ['@Test_public56',
                    '@Test_public57']  # Add more as needed
 
-# States
 AWAITING_ANNOUNCEMENT = 1
 AWAITING_CONFIRMATION = 2
 
